@@ -1,9 +1,6 @@
 ### SERVER STEALER  VERISON:
 this just copy the server channles
 
-### Current Worked Benchmarks:
-- Working: `1000%`
-- NotWorking: `26%`
 
 
 | SS OF THE TOOL| 
